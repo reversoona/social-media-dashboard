@@ -20,30 +20,30 @@ $d-background-color: black;
     margin-top: 30px;
     margin-bottom: 0px;
 }
-#titulo-prin{
+#tituloprin{
     font-size: 30px;
 }
 
-#sessoes{
+#sess{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     margin-top: 40px;
 }
-#face{
+#fcbk{
     background-color: $l-sec-color;
     border-radius: 7px;
     width: 300px;
     height: 250px;
     margin-left: 40px;
 }
-#img-face{
+#imgfcbk{
     display: flex;
     flex-direction: row;
     justify-content: center;
     margin-top: 20px;
 }
-#text-face{
+#textfcbk{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -59,20 +59,20 @@ $d-background-color: black;
     margin-top: 35px;
 }
 
-#insta{
+#inst{
     background-color: $l-sec-color;
     border-radius: 7px;
     width: 300px;
     height: 250px;
     margin-left: 40px;
 }
-#img-insta{
+#imginst{
     display: flex;
     flex-direction: row;
     justify-content: center;
     margin-top: 20px;
 }
-#text-insta{
+#textinst{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -88,20 +88,20 @@ $d-background-color: black;
     margin-top: 35px;
 }
 
-#passaro{
+#Xtwt{
     background-color: $l-sec-color;
     border-radius: 7px;
     width: 300px;
     height: 250px;
     margin-left: 40px;
 }
-#img-passaro{
+#imgXtwt{
     display: flex;
     flex-direction: row;
     justify-content: center;
     margin-top: 20px;
 }
-#text-passa{
+#textXtwt{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -116,20 +116,20 @@ $d-background-color: black;
     margin-left: 38px;
     margin-top: 35px;
 }
-#tube{
+#ytb{
     background-color: $l-sec-color;
     border-radius: 7px;
     width: 300px;
     height: 250px;
     margin-left: 40px;
 }
-#img-tube{
+#imgytb{
     display: flex;
     flex-direction: row;
     justify-content: center;
     margin-top: 20px;
 }
-#text-tube{
+#textytb{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -151,7 +151,7 @@ $d-background-color: black;
 #head{
     display: flex;
 }
-#botão{
+#bt{
     display: flex;
     align-items: center;
     margin-left: 680px;
